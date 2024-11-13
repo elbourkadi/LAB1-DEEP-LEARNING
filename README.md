@@ -1,6 +1,6 @@
 # Lab-Deep-Learning
 
-Clone the repository: git clone https://github.com/elbourkadi/Lab-Deep-Learning.git
+Clone the repository: git clone https://github.com/elbourkadi/Lab1-Deep-Learning.git
 
 
 This repository includes a project that aimed at building deep learning skills through developing Deep Neural Network (DNN) architectures.
